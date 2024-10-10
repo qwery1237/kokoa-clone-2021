@@ -14,13 +14,8 @@ While working on this project, I gained a deeper understanding of how web pages 
 
 ## Tech Stack & Tools
 
-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  
-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
+- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Key Features
 
@@ -28,11 +23,16 @@ While working on this project, I gained a deeper understanding of how web pages 
 - **Bottom Navigation**: A navigation bar at the bottom with four icons that redirect users to:
   - **Friends Page**
   - **Chats Page**
+    - **Chat Page**: Clicking on the first item in the chat list opens the chat interface.
   - **Find Page**
   - **More Page**
-- **Chat Page**: Clicking on the first item in the chat list opens the chat interface.
-- **Settings Page**: Accessed by clicking the settings icon at the top right of the More Page.
+    - **Settings Page**: Accessed by clicking the settings icon at the top right of the More Page.
+
+## Screenshots
+
+![Kokoa Chat Screenshot](URL_TO_YOUR_SCREENSHOT)
 
 ## Portfolio & GitHub Page
 
-You can view this project as part of my portfolio and access the GitHub repository through <a href="[YOUR_GITHUB_REPO_LINK](https://qwery1237.github.io/portfolio/)" target="_blank">this link</a>
+You can view this project as part of my portfolio and access the GitHub repository through [this link](https://qwery1237.github.io/portfolio/).
+
