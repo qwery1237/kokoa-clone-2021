@@ -28,10 +28,6 @@ While working on this project, I gained a deeper understanding of how web pages 
   - **More Page**
     - **Settings Page**: Accessed by clicking the settings icon at the top right of the More Page.
 
-## Screenshots
-
-![Kokoa Chat Screenshot](URL_TO_YOUR_SCREENSHOT)
-
 ## Portfolio & GitHub Page
 
 You can view this project as part of my portfolio and access the GitHub repository through [this link](https://qwery1237.github.io/portfolio/).
